@@ -1,0 +1,9 @@
+1:	program Min /* Finding minimum between two numbers */
+2:	{
+3:	declarations float:a,b;
+4:	start
+5:	read(a);
+6:	read(b);
+7:	if (a<b) then print(a);
+8:	otherwise print(b);
+9:	end }

@@ -1,0 +1,9 @@
+program Min /* Finding minimum between two numbers */
+{
+declarations float:a,b;
+start
+read(a);
+read(b);
+if (a<b) then print(a);
+otherwise print(b);
+end }
