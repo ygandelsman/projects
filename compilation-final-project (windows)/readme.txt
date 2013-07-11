@@ -1,6 +1,5 @@
 CPQ - A cpl to quad compiler
---------------------------------
-written by:	Yossi gandelsman
+============================
 
 
 compile cpq:
