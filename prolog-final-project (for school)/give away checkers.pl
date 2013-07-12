@@ -1,6 +1,6 @@
 /*
---------------------------------------------------------------------
-Programmer:   Yosef Gandelsman File Name: "give away checkers.pl"
+--------------------------------------------------------------------   
+File Name: "give away checkers.pl"
 Description:  The program plays give-away checkers with the user,
 	      according to the rules in the attached document.
 Synopsis:     Move the attached pictures to pl->xpce->bitmaps.
